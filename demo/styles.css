@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#wrapper {
+  width: 720px;
+  margin: 50px auto 0;
+  display: flex;
+  flex-flow: row wrap;
+}
+p {
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 20px #000;
+}
+p:nth-child(1) {
+  background: #e5beed;
+}
+p:nth-child(2) {
+  background: #9593d9;
+}
+p:nth-child(3) {
+  background: #7c90db;
+}
+p:nth-child(4) {
+  background: #736b92;
+}
+p:nth-child(5) {
+  background: #7d5c65;
+}
+p:nth-child(6) {
+  background: #8c4f60;
+}

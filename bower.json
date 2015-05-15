@@ -1,0 +1,22 @@
+{
+  "name": "jquery.fadeMeIn",
+  "main": "jquery.fadeMeIn.js",
+  "version": "1.0.0",
+  "authors": [
+    "melbon <mario@vidov.it>"
+  ],
+  "keywords": [
+    "fade",
+    "in",
+    "fade"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/melbon/jquery.fadeMeIn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

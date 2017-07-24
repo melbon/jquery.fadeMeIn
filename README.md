@@ -14,32 +14,32 @@ bower install fademein
 $(selector).fadeMeIn();
 ```
 ## Configuration
-#####duration
+#### duration
 set fadein duration for all elements
 ```javascript
 default: 400
 options: number
 ```
-#####easing
+#### easing
 set easing animation effect
 ```javascript
 default: "swing"
 options: string
 ```
-#####random
+#### random
 has random fadein duration
 ```javascript
 default: true
 options: boolean / true or false
 ```
-#####min
+#### min
 set min random duration
 note: only used when random: true
 ```javascript
 default: 100
 options: number
 ```
-#####max
+#### max
 set max random duration
 note: only used when random: true
 ```javascript
